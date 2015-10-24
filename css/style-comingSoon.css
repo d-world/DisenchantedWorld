@@ -1,0 +1,37 @@
+//Coming Soon Site
+p.coming {
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: 20px;
+    width: 100%;
+    line-height: 40px;
+}
+
+img.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -45px;
+    margin-left: -220px
+}
+article {
+    display: block;
+    text-align: left;
+    width: 650px;
+    margin: 0 auto;
+}
+
+//Home Site
+a {
+    color: #dc8100;
+    text-decoration: none;
+}
+body
+{
+    font: 20px Helvetica, sans-serif;
+    color: #B2B2B3;
+    background-color: #DCDAE9;
+    text-align: center;
+}
